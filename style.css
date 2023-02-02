@@ -1,0 +1,15 @@
+html{
+  box-sizing: border-box;
+}
+
+
+
+.hell {
+  border: 20px solid grey;
+  margin: 0 auto;
+  padding: 100px 100px;
+  background-color: red;
+  width: 30px;
+  height: 5px;
+  border-radius: 100%;
+}
